@@ -1,4 +1,14 @@
 
+# Maven
 target/
-.vscode
-.github
+*.class
+*.jar
+
+# IntelliJ / VSCode / Eclipse
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
